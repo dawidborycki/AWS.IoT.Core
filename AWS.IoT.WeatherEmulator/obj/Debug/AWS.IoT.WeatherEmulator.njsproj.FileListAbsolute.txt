@@ -1,0 +1,3 @@
+C:\Users\dbory\source\repos\AWS.IoT.Core\AWS.IoT.WeatherEmulator\obj\Debug\AWS.IoT.WeatherEmulator.njsprojAssemblyReference.cache
+C:\Users\dbory\source\repos\AWS.IoT.Core\AWS.IoT.WeatherEmulator\obj\Debug\AWS.IoT.WeatherEmulator.njsproj.CoreCompileInputs.cache
+C:\Users\dbory\source\repos\AWS.IoT.Core\AWS.IoT.WeatherEmulator\bin\Microsoft.NodejsTools.WebRole.dll

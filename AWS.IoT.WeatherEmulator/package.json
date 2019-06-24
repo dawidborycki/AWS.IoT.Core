@@ -1,0 +1,12 @@
+{
+  "name": "aws.iot.weather-emulator",
+  "version": "0.0.1",
+  "description": "AWS.IoT.WeatherEmulator",
+  "main": "app.js",
+  "author": {
+    "name": "Dawid Borycki"
+  },
+  "dependencies": {
+    "aws-iot-device-sdk": "^2.2.1"
+  }
+}

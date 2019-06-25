@@ -48,7 +48,7 @@ device.on('error', (err) => {
 });
 
 device.on('message', (_topic, payload) => {    
-    var messageObject = JSON.parse(payload.toString());
+    let messageObject = JSON.parse(payload.toString());
 
     if (messageObject.isTelemetryActive !== undefined) {        
         isTelemetryActive = messageObject.isTelemetryActive;

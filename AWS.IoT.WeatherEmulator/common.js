@@ -1,4 +1,4 @@
-﻿const rootCertDir = 'E:\\IoT\\Certificates\\'; // Change it to your directory
+const rootCertDir = 'E:\\IoT\\Certificates\\'; // Change it to your directory
 
 exports.awsConnectionInfo = {
     keyPath: rootCertDir + 'weather-emulator-private.key',
